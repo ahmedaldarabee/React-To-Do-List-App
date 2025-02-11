@@ -1,0 +1,14 @@
+.submit-btn {
+    width: 100%;
+}
+.submit-btn input {
+    width: 100%;
+}
+
+@media (max-width:775px) {
+    .main-input{
+        flex-direction: column;
+        gap: 20px;
+        width: 100%;
+    }
+}
